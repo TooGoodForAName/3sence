@@ -12,7 +12,7 @@
     </value>
     <next>
       <block type="oled_drawtext" id="4">
-        <field name="TEXT">Starting To Dance</field>
+        <field name="TEXT">Initiating 3Sence Sequence</field>
         <next>
           <block type="robot_delay" id="5" inline="true">
             <value name="DELAY">
